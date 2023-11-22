@@ -15,6 +15,8 @@ The Data for this analysis was found in Kaggle: https://www.kaggle.com/datasets/
     - 'sampled_US_Accidents.csv': is the sampled data set (50% of the original)    
 
 # Step 2: Tableau Exploratory Data Analysis (EDA)
+- Link to Tableau Stories: https://public.tableau.com/app/profile/cesar.zea/viz/USAccidentsAnalysis-CZ/NumberandSeverityofAccidentsintheUS
+- Link to Tableau Maps: https://public.tableau.com/app/profile/cesar.zea/viz/USAccidentsMap_17003199208480/MapofAccidentesintheUS
 - 'sampled_US_Accidents': is the sampled data set (50% of the original) and the one used for the EDA.
 - When plotting the accidents by month, it becomes apparent that the data for the years 2016 and 2023 are unreliable, as they seem incomplete. For 2016, the data starts at zero, indicating the likely commencement of data collection. In contrast, the data for 2023 only extends up to March. For the remainder of the analysis, I will exclude these years and focus on the fully reliable data spanning from 2017 to 2022.
 - When focusing on 2017 to 2022, we observe a significant increase in the number of accidents in 2019. This is followed by a decline for a couple of months, possibly due to the pandemic, and then a spike again at the end of 2020, with high numbers persisting afterwards.
