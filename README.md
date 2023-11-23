@@ -3,6 +3,8 @@ Final_Project_Machine_Learning
 
 The Data for this analysis was found in Kaggle: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents 
 
+# Note:  The files 'clean_sampled_US_Accidents_for_model.csv', 'clean_sampled_US_Accidents.csv', 'US_Accidents_March23.csv' and 'sampled_US_Accidents.csv' are only portions of the full files, due to git Hub's file size restrictions.
+
 # Step 1: Cleaning the data for EDA
 - The Jupyter Notebook file that was used to clean the data is 'Final_Project_Machine_Learning1.ipynb'
 - The original file is 7728394 rows × 46 columns.  This is too large for Tableau Public.
