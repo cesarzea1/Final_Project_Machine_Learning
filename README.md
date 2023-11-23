@@ -97,6 +97,11 @@ Comparing the results between pre and post optimization:
 - The improvement in recall for severity levels 3 and 4 is particularly important if the cost of missing these cases is high, even if it means accepting more false positives (lower precision).
 - In summary, the optimization has led to the model being more sensitive to higher severity levels, which can be critical.
 
+# Recommendations:
+- Explore Feature Engineering:  combining features or further evaluating correlations.
+- Address Class Imbalance: explore different sampling options, or apply weighting to the different classes.
+- Explore options to select features:  consult with experts on accidents to better select features that would have impact on severity.
+
 
 
 
